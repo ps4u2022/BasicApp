@@ -1,0 +1,78 @@
+﻿@model BasicApp.ViewModels.LoginScreen
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_EntryLayout.cshtml";
+}
+
+
+<div class="container py-2">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="text-center text-white mb-4">Regisration form</h2>
+            <div class="row">
+                <div class="col-md-7 mx-auto">
+                    <!-- form card login -->
+                    @using (Html.BeginForm())
+                    {
+                        <div class="form-group row">
+                            <label for="inputEmail3" class="col-sm-3 col-form-label">USERID</label>
+                            <div class="col-sm-9">
+                                @Html.TextBoxFor(model => model.USER_DETAILS.USERID, new { @class = "form-control", required = "", placeholder = "Email", type = "text" })
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="inputPassword3" class="col-sm-3 col-form-label">Password</label>
+                            <div class="col-sm-9">
+                                @Html.TextBoxFor(model => model.USER_DETAILS.PASSWORD, new { @class = "form-control", required = "", placeholder = "Password" })
+
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label for="inputEmail3" class="col-sm-3 col-form-label">Full Name</label>
+                            <div class="col-sm-9">
+                                @Html.TextBoxFor(model => model.USER_DETAILS.FULLNAME, new { @class = "form-control", required = "", placeholder = "Full Name" })
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-9">
+                                <button type="submit" class="btn btn-primary">Sign Up</button>
+                            </div>
+                        </div>
+                    }
+                    <a class="dropdown-item" href="@Url.Action("Login","Login")">Allready have an account? Login</a>
+                    <!-- /form card login -->
+                </div>
+
+            </div>
+            <!--/row-->
+        </div>
+        <!--/col-->
+    </div>
+    <!--/row-->
+</div>
+<br /><br />
+<hr />
+<div class="container">
+
+    <h2 class="text-center text-white mb-4">Registered Users</h2>
+    <table class="table table-bordered">
+        <tr><td>Uid</td><td>edit</td><td>delete</td></tr>
+        @if (Model != null)
+        {
+            if (Model.Userdtl != null)
+            {
+                foreach (var v in Model.Userdtl)
+                {
+                    <tr>
+                        <td>@v.USERID</td>
+                        <td><a class="text-success" title="Edit" href="@Url.Action("Registrationedit", "login" , new { uid=v.USERID })"><i class="fa fa-edit"></i></a> </td>
+                        <td>
+                            <a class="text-danger" title="Edit" href="@Url.Action("Registrationdelete", "login" , new { uid=v.USERID })"><i class="fa fa-trash"></i></a>    &nbsp; &nbsp; &nbsp;
+                        </td>
+                    </tr>
+                }
+            }
+        }
+    </table>
+</div>

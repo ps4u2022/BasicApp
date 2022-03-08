@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="@ViewBag.metadescription" />
+    <meta name="keywords" content="@ViewBag.metakeywords" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/font-awesome.min.css">
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+    <script src="~/Scripts/umd/popper.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script>
+        function logOut() {
+            if (confirm("Are You sure to Logout?")) {
+                window.location = "@Url.Action("Logout", "Login")";
+            }
+        }
+    </script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            @{
+                var USERNAME = Session["USERNAME"];
+            }
+            <a class="navbar-brand" href='@Url.Action("Index", "Home")'>Home</a>
+            <a class="navbar-brand" href='@Url.Action("Contact", "Home")'>ContactUs</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">welcome  @USERNAME</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="DropdownUser" data-target="#navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <i class="fa fa-user"></i>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="DropdownUser" id="navbarDropdown">
+                            @if (USERNAME == null)
+                            {
+                                <a class="dropdown-item" href="@Url.Action("Login","Login")">Login</a>
+                            }
+                            else
+                            {
+                                <a class="dropdown-item" onclick="logOut()" href="#">Logout</a>
+                            }
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+    <!-- Page Content -->
+    <div>
+        @RenderBody()
+        <!-- Page Heading/Breadcrumbs -->
+        <hr />
+    </div>
+    
+        <div class="modal fade" id="profileModal"  role="dialog">
+            <div class="modal-dialog" role="document">
+                
+            </div>
+        </div>
+    <footer class="py-2 bg-dark">
+        <div class="container">
+          <p class="m-0 text-center text-white"> <a href="#">   BasicApp </a>   Copyright &copy; Your Website 2022</p>
+        </div>
+    </footer>
+</body>
+</html>

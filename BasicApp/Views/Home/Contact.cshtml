@@ -1,0 +1,87 @@
+﻿@model BasicApp.ViewModels.LoginScreen
+@{
+    ViewBag.Title = "Contact";
+}
+<script>
+    $(document).ready(function () {
+        $('.navbar-nav').find('li.active').removeClass('active');
+        $("ul li:nth-child(5)").addClass('active');
+    });
+</script>
+<style>
+    body {
+        background-image: url("../../Images/contact_bg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style>
+@Html.Raw(ViewData["successmessage"])
+<div class="container" style="background-color:#babf8b7a;border-radius: 20px;">
+    <h2>About Us</h2>
+    <p>
+        BasicApp is an information technology services and Solutions company formed by a group of software professionals,
+        whose cost-effective services and solutions are directly aligned with the unique needs of each client.
+        BasicApp is a top-tier business consulting and professional services firm with a track record of excellence.
+        Eminent Software Services is built on values a commitment to excellence, trust and individual leadership.
+        BasicApp deep industry expertise, cost-effective delivery methodology, highly skilled engineers and professionals,
+        focus on quality standards, and flexibility in meeting your specific business requirements effectively eliminate risk and provide the foundation for our shared success.
+
+
+    </p>
+   
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary("", new { @class = "text-danger" })
+        <div class="row">
+            <div class="col-md-2">
+                @Html.Label("", "Name *")
+            </div>
+            <div class="col-md-4">
+                <input type="text" name="name" required class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                @Html.Label("", "Email *")
+            </div>
+            <div class="col-md-4">
+                <input type="email" name="email" required class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                @Html.Label("", "Mobile")
+            </div>
+            <div class="col-md-4">
+                <input type="tel" name="mobile" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                @Html.Label("", "Message *")
+            </div>
+            <div class="col-md-4">
+                <textarea name="message" required class="form-control"></textarea>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-2">
+                <input type="submit" class="btn btn-info" name="submit" />
+            </div>
+        </div>
+    }
+    <h3>@ViewBag.Message</h3>
+
+    <address>
+        Street, PA 1603<br />
+        <abbr title="Phone">P:</abbr>
+        1234-5678-90
+    </address>
+
+    <address>
+        <strong>Support:</strong>   <a href="test@example.com">test@example.com</a><br />
+        <strong>Marketing:</strong> <a href="test@example.com">test@example.com</a>
+    </address>
+    <br />
+</div>

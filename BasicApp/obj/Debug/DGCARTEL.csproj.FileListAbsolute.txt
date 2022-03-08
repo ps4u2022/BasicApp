@@ -1,0 +1,685 @@
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\ApplicationInsights.config
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\DGCARTEL.dll.config
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\DGCARTEL.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\DGCARTEL.pdb
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csc.exe
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csc.exe.config
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csc.rsp
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csi.exe
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csi.exe.config
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csi.rsp
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.AppContext.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Collections.Immutable.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Console.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Compression.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.FileSystem.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Pipes.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Reflection.Metadata.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.AccessControl.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Claims.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.ValueTuple.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XPath.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\vbc.exe
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\vbc.exe.config
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\vbc.rsp
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\VBCSCompiler.exe
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\VBCSCompiler.exe.config
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Antlr3.Runtime.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\EntityFramework.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\EntityFramework.SqlServer.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.DependencyCollector.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Web.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.WindowsServer.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.ApplicationInsights.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.Web.Infrastructure.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Newtonsoft.Json.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Helpers.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Mvc.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Optimization.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Razor.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Deployment.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Razor.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\WebGrease.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Antlr3.Runtime.pdb
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\EntityFramework.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\EntityFramework.SqlServer.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.DependencyCollector.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Web.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.WindowsServer.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\Newtonsoft.Json.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Helpers.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Mvc.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Razor.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Deployment.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Razor.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Optimization.xml
+D:\OWN COM\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.csprojResolveAssemblyReference.cache
+D:\OWN COM\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.csproj.CoreCompileInputs.cache
+D:\OWN COM\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.dll
+D:\OWN COM\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.pdb
+E:\OWN COM\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.csprojResolveAssemblyReference.cache
+E:\OWN COM\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.pdb
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\ApplicationInsights.config
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\DGCARTEL.dll.config
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\DGCARTEL.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\DGCARTEL.pdb
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csc.exe
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csc.exe.config
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csc.rsp
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csi.exe
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csi.exe.config
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\csi.rsp
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.AppContext.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Collections.Immutable.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Console.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Compression.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.FileSystem.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Pipes.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Reflection.Metadata.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.AccessControl.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Claims.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Principal.Windows.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.ValueTuple.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XPath.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\vbc.exe
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\vbc.exe.config
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\vbc.rsp
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\VBCSCompiler.exe
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\roslyn\VBCSCompiler.exe.config
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Antlr3.Runtime.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\EntityFramework.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\EntityFramework.SqlServer.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Agent.Intercept.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.DependencyCollector.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Web.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.WindowsServer.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.ApplicationInsights.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.Web.Infrastructure.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Newtonsoft.Json.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Helpers.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Mvc.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Optimization.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Razor.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Deployment.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Razor.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\WebGrease.dll
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Antlr3.Runtime.pdb
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\EntityFramework.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\EntityFramework.SqlServer.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.DependencyCollector.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Web.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AI.WindowsServer.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\Newtonsoft.Json.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Helpers.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Mvc.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Razor.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Deployment.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Razor.xml
+E:\OWN COM\DGCARTEL\DGCARTEL\bin\System.Web.Optimization.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\ApplicationInsights.config
+E:\dfssd\DGCARTEL\DGCARTEL\bin\DGCARTEL.dll.config
+E:\dfssd\DGCARTEL\DGCARTEL\bin\DGCARTEL.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\DGCARTEL.pdb
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\csc.exe
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\csc.exe.config
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\csc.rsp
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\csi.exe
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\csi.exe.config
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\csi.rsp
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.AppContext.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Collections.Immutable.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Console.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Compression.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.FileSystem.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Reflection.Metadata.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.ValueTuple.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XPath.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\vbc.exe
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\vbc.exe.config
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\vbc.rsp
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\VBCSCompiler.exe
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\VBCSCompiler.exe.config
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Antlr3.Runtime.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\EntityFramework.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\EntityFramework.SqlServer.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Agent.Intercept.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AI.DependencyCollector.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Web.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AI.WindowsServer.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.ApplicationInsights.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.Web.Infrastructure.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Newtonsoft.Json.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.Helpers.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.Mvc.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.Optimization.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.Razor.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Deployment.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Razor.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\WebGrease.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Antlr3.Runtime.pdb
+E:\dfssd\DGCARTEL\DGCARTEL\bin\EntityFramework.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\EntityFramework.SqlServer.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AI.DependencyCollector.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Web.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AI.WindowsServer.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\Newtonsoft.Json.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.Helpers.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.Mvc.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.Razor.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Deployment.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Razor.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\System.Web.Optimization.xml
+E:\dfssd\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.dll
+E:\dfssd\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.pdb
+E:\dfssd\DGCARTEL\DGCARTEL\bin\itextsharp.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\itextsharp.xml
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Globalization.Calendars.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Net.Http.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Net.Sockets.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\dfssd\DGCARTEL\DGCARTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\dfssd\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.csprojResolveAssemblyReference.cache
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\ApplicationInsights.config
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\DGCARTEL.dll.config
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\DGCARTEL.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\DGCARTEL.pdb
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\csc.exe
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\csc.exe.config
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\csc.rsp
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\csi.exe
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\csi.exe.config
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\csi.rsp
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.AppContext.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Collections.Immutable.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Console.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Globalization.Calendars.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Compression.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.FileSystem.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Net.Http.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Net.Sockets.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Reflection.Metadata.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.ValueTuple.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XPath.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\vbc.exe
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\vbc.exe.config
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\vbc.rsp
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\VBCSCompiler.exe
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\roslyn\VBCSCompiler.exe.config
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Antlr3.Runtime.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\EntityFramework.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\EntityFramework.SqlServer.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\itextsharp.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AI.DependencyCollector.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Web.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AI.WindowsServer.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.ApplicationInsights.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.Web.Infrastructure.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Newtonsoft.Json.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.Helpers.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.Mvc.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.Optimization.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.Razor.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Deployment.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Razor.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\WebGrease.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Antlr3.Runtime.pdb
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\EntityFramework.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\EntityFramework.SqlServer.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\itextsharp.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AI.DependencyCollector.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AI.Web.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AI.WindowsServer.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\Newtonsoft.Json.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.Helpers.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.Mvc.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.Razor.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Deployment.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.WebPages.Razor.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\bin\System.Web.Optimization.xml
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.csprojAssemblyReference.cache
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.csproj.CoreCompileInputs.cache
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.csproj.CopyComplete
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.dll
+D:\MITHUN\C#\DGCARTEL\DGCARTEL\obj\Debug\DGCARTEL.pdb
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\ApplicationInsights.config
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\DGCARTEL.dll.config
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\DGCARTEL.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\DGCARTEL.pdb
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\csc.exe
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\csc.exe.config
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\csc.rsp
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\csi.exe
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\csi.exe.config
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\csi.rsp
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.AppContext.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Console.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.IO.Compression.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Net.Http.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Net.Sockets.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.ValueTuple.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\vbc.exe
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\vbc.exe.config
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\vbc.rsp
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\VBCSCompiler.exe
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Antlr3.Runtime.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\EntityFramework.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\EntityFramework.SqlServer.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\itextsharp.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AI.Web.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Newtonsoft.Json.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.Helpers.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.Mvc.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.Optimization.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.Razor.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.WebPages.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.WebPages.Razor.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\WebGrease.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Antlr3.Runtime.pdb
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\EntityFramework.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\EntityFramework.SqlServer.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\itextsharp.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AI.Web.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\Newtonsoft.Json.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.Helpers.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.Mvc.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.Razor.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.WebPages.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.WebPages.Razor.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\bin\System.Web.Optimization.xml
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\obj\Debug\DGCARTEL.csproj.AssemblyReference.cache
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\obj\Debug\DGCARTEL.csproj.CoreCompileInputs.cache
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\obj\Debug\DGCARTEL.csproj.CopyComplete
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\obj\Debug\DGCARTEL.dll
+D:\Projects\C#\ps4u\MVCEntity\DGCARTEL\obj\Debug\DGCARTEL.pdb
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\ApplicationInsights.config
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\DGCARTEL.dll.config
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\DGCARTEL.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\DGCARTEL.pdb
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\csc.exe
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\csc.exe.config
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\csc.rsp
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\csi.exe
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\csi.exe.config
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\csi.rsp
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.AppContext.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Console.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.IO.Compression.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Net.Http.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Net.Sockets.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.ValueTuple.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\vbc.exe
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\vbc.exe.config
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\vbc.rsp
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\VBCSCompiler.exe
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Antlr3.Runtime.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\EntityFramework.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\EntityFramework.SqlServer.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\itextsharp.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.Web.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Newtonsoft.Json.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.Helpers.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.Mvc.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.Optimization.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.Razor.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.Razor.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\WebGrease.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Antlr3.Runtime.pdb
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\EntityFramework.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\EntityFramework.SqlServer.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\itextsharp.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.Web.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\Newtonsoft.Json.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.Helpers.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.Mvc.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.Razor.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.Razor.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\bin\System.Web.Optimization.xml
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.csproj.AssemblyReference.cache
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.csproj.CoreCompileInputs.cache
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.csproj.CopyComplete
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.dll
+D:\Projects\C#\ps4u\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.pdb
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\ApplicationInsights.config
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\DGCARTEL.dll.config
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\DGCARTEL.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\DGCARTEL.pdb
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\csc.exe
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\csc.exe.config
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\csc.rsp
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\csi.exe
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\csi.exe.config
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\csi.rsp
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.AppContext.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Console.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.IO.Compression.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Net.Http.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.ValueTuple.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\vbc.exe
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\vbc.exe.config
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\vbc.rsp
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\VBCSCompiler.exe
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Antlr3.Runtime.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\EntityFramework.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\EntityFramework.SqlServer.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\itextsharp.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.Web.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.ApplicationInsights.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Newtonsoft.Json.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.Helpers.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.Mvc.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.Optimization.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.Razor.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.Razor.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\WebGrease.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Antlr3.Runtime.pdb
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\EntityFramework.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\EntityFramework.SqlServer.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\itextsharp.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.Web.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\Newtonsoft.Json.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.Helpers.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.Mvc.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.Razor.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.WebPages.Razor.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\bin\System.Web.Optimization.xml
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.csproj.AssemblyReference.cache
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.csproj.CoreCompileInputs.cache
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.csproj.CopyComplete
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.dll
+C:\Users\prakhar2\Downloads\BASICAPP\MVCEntity -send\MVCEntity -send\DGCARTEL\obj\Debug\DGCARTEL.pdb
